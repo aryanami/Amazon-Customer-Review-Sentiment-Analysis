@@ -1,4 +1,4 @@
-# Amazon Customer Review Sentiment Analysis
+# Customer Review Sentiment Analysis
 
 ## Objective
 The objective of this project is to classify Amazon customer reviews into positive and negative sentiments by evaluating the performance of a variety of machine learning algorithms. This project is essential for helping companies make better decisions based on sentiment analysis results, improving their services, and raising customer satisfaction levels.
